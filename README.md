@@ -1,4 +1,4 @@
-# 📄 Resume Analyzer & Job Match Predictor + ATS Scoring
+# 📄 Create-ResumeAnalyzer-Dashboard
 
 An intelligent web application that helps job seekers evaluate and improve their resumes by analyzing skills, matching job titles, identifying gaps, and accurately scoring their resume against any job description using an ATS-style system.
 
